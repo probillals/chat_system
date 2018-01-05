@@ -1,5 +1,5 @@
 # chat_system
-This is a dynamic Chat platform that is used by any webpage 
+This is a dynamic Chat platform made by PHP and ajax that is used by any webpage 
 
 At first you have to set your database connection.
 
